@@ -17,9 +17,6 @@ My name is **Umut Can Altin**, I'm 28 years old and I'm a Full-stack developer/ 
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
+<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=umutcanaltin&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
-
-
-----
 
