@@ -1,9 +1,8 @@
 ## Hello World!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umut-can-altin-507455103/)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+[<img src="https://img.shields.io/github/followers/umutcanaltin?label=follow&style=social" height="22" title="Follow me" />](https://github.com/umutcanaltin) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:umutcanaltin1@gmail.com)
 
 
 My name is **Umut Can Altin**, I'm 28 years old and I'm a Full-stack developer/ AI Researcher.
