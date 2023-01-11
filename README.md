@@ -2,7 +2,7 @@
 <h3 align="center">I am a Developer/Researcher, Full-Stack developer and Artificial Intelligence Researcher</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 📫 How to reach me: [<img alt="Umut Can Altin | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/umut-can-altin-507455103/)**
+- 📫 How to reach me: (https://www.linkedin.com/in/umut-can-altin-507455103/)**
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
