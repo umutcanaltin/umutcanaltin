@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:umutcanaltin1@gmail.com)
 
 
-My name is **Umut Can Altin**, I'm 28 years old and I'm a Full-stack developer/ AI Researcher.
+My name is **Umut Can Altin**, I'm a Full-stack developer/ AI Researcher.
 
 
 - 🌱 I’m currently working with <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
