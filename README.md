@@ -8,7 +8,7 @@
 My name is **Umut Can Altin**, I'm a Full-stack developer/ AI Researcher.
 
 
-- I’m currently working with as a Full Stack Developer:
+- I’m currently working with as a AI Software Engineer:
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
